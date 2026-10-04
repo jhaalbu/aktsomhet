@@ -1,5 +1,13 @@
 # Skredfare langs vegar i Vestland
 
+For eit enklare læringsdøme: [Rv13 – enkelt dataarbeid](notebooks/rv13_enkel_dataarbeid.ipynb)
+bruker berre Rv13 i Vestland og Xgeo-meldingar frå 2024–2025. All behandling
+står direkte i cellene: API-henting, segmenttabell, strekningsgruppering,
+meldingspunkt, 2 km-buffer og overlapp med NVE sitt 1 km-grid. Alle 12
+kodecellene er køyrde. Dømet gir 26 strekningar, 1 169 meldingskandidatrader
+og 1 163 unike geometriske gridceller. Oppdateringar er ikkje dedupliserte
+til hendingar. Filer og kart ligg i `data/notebook/rv13_enkelt/`.
+
 Første steg i eit ML-prosjekt: eit reproduserbart uttak av vegnett frå NVDB,
 gruppert etter eksisterande vegnummer, strekning og delstrekning.
 
