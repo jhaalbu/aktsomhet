@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+data/raw/
+data/processed/
+data/weather/
+models/.mplcache/
+models/first_run/
+models/.ipython/
+models/.jupyter_runtime/
+notebooks/.ipynb_checkpoints/

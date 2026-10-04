@@ -1,0 +1,21 @@
+{
+  "segment": 43600,
+  "delstrekningar": 1211,
+  "strekningar": 957,
+  "total_lengde_km": 7250.779008,
+  "vegkategori": {
+    "E": 83,
+    "F": 801,
+    "R": 73
+  },
+  "ekskludert": {
+    "ikkje_koyrande": 9161,
+    "kryss_sideanlegg_utan_strekning": 15261,
+    "ikkje_vegtrase": 5485
+  },
+  "srid": [
+    5973
+  ],
+  "min_strekningslengde_m": 3.0,
+  "maks_strekningslengde_m": 50586.946
+}

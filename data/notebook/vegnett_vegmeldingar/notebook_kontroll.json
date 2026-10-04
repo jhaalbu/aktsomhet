@@ -1,0 +1,13 @@
+{
+  "road_sections": 957,
+  "segments": 43600,
+  "raw_xgeo_rows": 105407,
+  "study_message_rows": 23177,
+  "strict_episodes": 4787,
+  "positive_section_days": 4522,
+  "populated_sections": 562,
+  "panel_year": 2018,
+  "panel_rows": 349305,
+  "checks_passed": true,
+  "qualification": "Tekniske kontrollar; meldingstekst og faktisk skredstad er ikkje manuelt verifiserte"
+}
